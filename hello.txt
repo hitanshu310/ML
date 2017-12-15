@@ -1,2 +1,1 @@
-hello this is hitanshu and nice to meet you. 
-see you next time b.bye.
+This the answer to coding assignment week four of machine learning course by AndrewNG Stanfod University.
